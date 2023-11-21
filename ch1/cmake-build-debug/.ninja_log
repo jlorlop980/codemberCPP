@@ -1,0 +1,6 @@
+# ninja log v5
+606	652	1700566005047389925	ch1	ca784dd1ac0a03a6
+684	750	1700566432788989915	/Users/jose/Developer/SideProjects/codemberCPP/ch1/binaries/ch1	569ae4240956321d
+12	684	1700566432719273970	CMakeFiles/ch1.dir/main.cpp.o	958798d3d12bdbc7
+0	56	1700566482653011583	build.ninja	df13d25d38305c67
+11	72	1700566875867181760	/Users/jose/Developer/SideProjects/codemberCPP/ch1/binaries/ch1	569ae4240956321d
