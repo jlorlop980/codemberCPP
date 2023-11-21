@@ -1,8 +1,8 @@
 ### 1º Step
 Reload de cmake project
 ### 2º Step
-Compile teh project, the script will be on the binaries folder
-At the root of he project (ch1/)
+Compile the project, the script will be on the binaries folder.
+At the root of he project (ch1/) do:
 ```bash
 mkdir build
 cd build
