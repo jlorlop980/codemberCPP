@@ -16,7 +16,7 @@ Example:
 ```bash
 ./ch1 <<< "TheStringYouWant"
 ```
-or even
+or
 ```bash
 ./ch1 < yourfile.txt
 ```
