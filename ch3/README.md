@@ -2,7 +2,7 @@
 Reload de cmake project
 ### 2º Step
 Compile the project, the script will be on the binaries folder.
-At the root of he project (ch2/) do:
+At the root of the challenge (ch3/) do:
 ```bash
 mkdir build
 cd build
@@ -14,5 +14,5 @@ To use the script you should pass the parameter from bash
 
 Example:
 ```bash
-./ch1 < yourfile.txt
+./ch3 < yourfile.txt
 ```

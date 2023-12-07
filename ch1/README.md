@@ -2,7 +2,7 @@
 Reload de cmake project
 ### 2º Step
 Compile the project, the script will be on the binaries folder.
-At the root of he project (ch1/) do:
+At the root of the challenge (ch1/) do:
 ```bash
 mkdir build
 cd build
