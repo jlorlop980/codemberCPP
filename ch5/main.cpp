@@ -17,11 +17,7 @@ int main() {
         }
     }
 
-    std::cout<<names;
-    /*
-    elemento persona{
-        per[0],per[1],per[2],per[3],per[4]
-    };
-    */
+    std::cout<<names<<std::endl;
+
     return 0;
 }
